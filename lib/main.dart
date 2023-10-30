@@ -5,8 +5,6 @@ import 'package:instagramie/dashboard.dart';
 import 'package:instagramie/pages/home_feed_page.dart';
 import 'package:instagramie/utils/ui_utils.dart';
 
-//test
-
 void main() {
   WidgetsFlutterBinding.ensureInitialized();
   SystemChrome.setPreferredOrientations([DeviceOrientation.portraitUp])
